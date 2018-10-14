@@ -1,8 +1,0 @@
-#include <iostream>
-using namespace std;
-
-int main()
-{
-	cout << "This is My first Pushing code into github.. " << endl;
-	return 0;
-}
